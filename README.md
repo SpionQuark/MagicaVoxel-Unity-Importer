@@ -11,6 +11,11 @@ Quite simple actually.
 
 Mow it should work. 
 
+## What it does
+
+- Transforms the .vox file into something Unity understands
+- Add animator and controller for animated .vox files
+
 ## How does it work?
 
 It runs on pure magic.
@@ -23,7 +28,8 @@ It runs on pure magic.
 
 ## Is it a "fork" of [korobetski](https://github.com/korobetski/MagicaVoxel-Unity-Importer)s work?
 
-Not really. Sure, most of the script is based on his work. It was abandoned in 2021. An issue opened in 2022 said it did not work with the current Unity version
+Most of the script is based on his work. Though this approach is hardened for newer versions and focuses on making .vox files work with ease.
+For example importing animations easily (as animations)
 
 ## What makes it different?
 
